@@ -11,19 +11,19 @@ The project is the main grading item of the course. It will allow you to choose 
 * **February 7** Guidelines and default project ideas out. Group formation opens on Canvas (you can self-organize, groups are capped to 3). Proposals for custom projects are encouraged.
 * **April 4** Groups are formed, time to decide on a project idea, if you have not already. Discussions (with me) on how to structure your project should start ASAP.
 * **April 11** Project update 0: repository `README` up. You need to submit a link to your repo containing the populated `README` file. This file should contain a detailed project plan, including: research question, dataset, methods, milestones, proposed division of work. Please use the [repository README template](README_template.md).
-* **May 2** Project update 1 (see below for guidelines).
-* **May 15** Project update 2 (see below for guidelines).
-* **May 28/31** In-class presentations: 10+10 minutes (presentation + questions), schedule to be published in advance.
-* **June 2 (23:59 CEST)** Project due for all groups.
+* **April 25** Project update 1 (see below for guidelines).
+* **May 9** Project update 2 (see below for guidelines).
+* **May 20/23** In-class presentations: 10+10 minutes (presentation + questions), schedule to be published in advance.
+* **May 23 (23:59 CEST)** Project due for all groups. This is the last day before the AUC wrap-up week, so this deadline can only be extended in case of exceptional personal circumstances.
 
 ## Practicalities
 
 * **Team size**: teams of 3 people are strongly encouraged. One or two groups can be sized 2 or 4 if necessary (ask me first, the expected workload goes down or up accordingly). Groups of 1 are not allowed.
 * **Contribution**: in the final report plase add a statement of what each team member contributed to the project. Team members will typically get the same grade, but I may differentiate in clear cases of unequal contribution. You can contact me in confidence in the event of unequal contribution.
 *Example: John: Plotting graphs during data analysis, crawling the data, preliminary data analysis; Mary: Problem formulation, writing up the report, coming up with the algorithm; Chris: Coding up the algorithm, running tests, tabulating final results.*
-* **Using external resources**: you may use any existing code, libraries, etc. and consult any papers, books, online references, generative language models, etc. for your project. However, you must cite your sources in your writeup and clearly indicate which parts of the project are your contribution and which parts were implemented by other authors or entities. Under no circumstances may you look at the code of another project from this course, or incorporate their code into your project. In your writeup, you cannot copy literally the output from external sources, including generative language models, even when you have cited those sources. This means that you *must* rework and process such information from external sources into your own writeup.
+* **Using external resources**: you may use any existing code, libraries, etc. and consult any papers, books, online references, generative language models, etc. for your project. However, you must cite your sources in your writeup and clearly indicate which parts of the project are your contribution and which parts were implemented by other authors or entities. Under no circumstances may you look at the code of another project from this year's edition of the course, or incorporate their code into your project. In your writeup, you cannot copy literally the output from external sources, including generative language models, even when you have cited those sources. This means that you *must* rework and process such information from external sources into your own writeup.
 * **Logistics**: you must create your project's GitHub (or GitLab) repository and work there (one of you uses their account and the others are invited as collaborators). This will help you start your project portfolio online.
-* **Updates**: these are brief summaries of what you have accomplished during the previous week, as well as any question you would like to ask. Groups should use a GitHub *issue* for every separate update, and add links to code or data where applicable. I will reply there. *You must submit updates, please do not have me chase you*: this is not optional and will influence your grade.
+* **Updates**: these are brief summaries of what you have accomplished during the previous week, as well as any question you would like to ask. Groups should use a **GitHub issue** for every separate update, and add links to code or data where applicable. I will reply there. *You must submit updates, please do not have me chase you*: this is not optional and will influence your grade.
 * **Final submission**. You are expected to **submit a public URL to your repository**, containing the following: a short **report** (4-page maximum, excluding references and appendix), a **slide deck** for your presentation (I recommend 5-10 slides, not more), the **repository** or folder containing code, data and a `README` file with appropriate documentation to navigate the repository (all this with a link to your repository). **Please put the bulk of the code into a single notebook, with a clear structure and dependences.** *Note that the slide deck can be updated after the group presentation, but should be in the repo at submission time.*
 
 ## Presentation
@@ -59,10 +59,12 @@ For the grading of the presentations, I will pay attention to the following poin
     * https://neerlandistiek.nl/2018/09/de-beste-digitale-taalbronnen/
 4. [Default project ideas](default_project_ideas.md).
 5. Example projects. Please keep in mind some of these are from courses at the master level: do get inspired, but do not get worried.
-    * [Projects from the previous-year edition](https://github.com/bloemj/AUC_TMCI_2022)
+    * [Projects from the previous-year edition](https://github.com/bloemj/AUC_TM_2024)
+    * [Projects from 2023 edition](https://github.com/bloemj/AUC_TM_2023)
+    * [Projects from 2022 edition](https://github.com/bloemj/AUC_TMCI_2022)
     * [Projects from 2021 edition](https://github.com/Giovanni1085/AUC_TMCI_2021)
     * [Projects from 2019 edition](https://github.com/Giovanni1085/AUC_TMCI_2019)
-    * https://dlab.epfl.ch/teaching/fall2018/cs401/reports
+    * [https://dlab.epfl.ch/teaching/fall2018/cs401/reports](https://epfl-ada.github.io/teaching/fall2023/cs401/reports/) and [earlier years](https://epfl-ada.github.io/teaching/)
     * https://www.epfl.ch/labs/mlo/machine-learning-cs-433
     * http://web.stanford.edu/class/cs224n/project.html
 6. [Report template](report/): A 4-page, double-column PDF report (4 pages excluding references), following a standard structure (where applicable): abstract, introduction, related work, (brief) data collection, dataset description with summary statistics, methods with math and description of main algorithms, results and findings, conclusions. This report will be evaluated according to how clearly and succinctly it is written, if the style is appropriate (e.g., figures with captions), if it contains all relevant contents, and how solid the results are.
