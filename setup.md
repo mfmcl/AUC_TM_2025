@@ -67,3 +67,25 @@ Just click on lunch Binder in the repo. Remember to download any file you edited
 ### Jupyter 
 
 This should be pretty straightforward if you have the Anaconda Navigator or have an environment created as detailed above. More info [here](https://medium.com/codingthesmartway-com-blog/getting-started-with-jupyter-notebook-for-python-4e7082bd5d46).
+
+
+## Managing the fork
+
+Pull in updates from the professor’s repo
+
+When the professor adds new material, fetch and merge (or rebase) them:
+
+```
+# Go back to your main branch
+git checkout main
+
+# Fetch and merge the professor's changes into your main
+git fetch upstream
+git merge upstream/main
+
+# Now, rebase your work branch onto the updated main (to include the latest updates)
+git checkout notebooks
+git rebase main
+
+```
+Or use `git pull --rebase upstream main` if you're comfortable with rebase in one step
