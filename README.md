@@ -17,7 +17,7 @@ You can use the [Hello World](notebooks/0_HelloWorld.ipynb) notebooks to check t
 | 6      | Machine learning fundamentals  | <a href='slides/AUC_6_ML_2025'>slides</a> + notebooks <a href='notebooks/6_1_ML.ipynb'>1 (ML)</a>, <a href='notebooks/6_2_ContextualEmbeddings.ipynb'>2 (BERT)</a> |
 | 7      | Text classification and RNNs | <a href=''>slides</a> + <a href='notebooks/7_1_Classification.ipynb'>notebook (Scikit-learn)</a>, <a href='notebooks/7_2_PyTorch.ipynb'>notebook (PyTorch)</a> |
 | 8      | Recommender systems and NER  | <a href=''>slides</a> + notebooks <a href='notebooks/9_Recommender_Systems.ipynb'>Recommender</a>, <a href='notebooks/8_2_NER_Transformers.ipynb'>NER (Transformers)</a>, <a href='notebooks/8_1_NER_PyTorch.ipynb'>NER (PyTorch)</a> |
-| 9      | Creating annotated corpora, Web scraping and APIs  | <a href=''>slides</a>, <a href='notebooks/9_WebScraping_APIs.ipynb'>notebook</a> |
+| 9      | Creating annotated corpora, Web scraping and APIs  | <a href=''>slides</a>, <a href='notebooks/10_WebScraping_APIs.ipynb'>notebook</a> |
 | 10      | Sentiment analysis  | <a href=''>slides</a> + <a href='notebooks/11_Sentiment_Analysis.ipynb'>notebook</a> |
 | 11      | Clustering and topic modelling  | <a href=''>slides</a> + <a href='notebooks/12_Clustering_TopicModelling.ipynb'>notebook</a> |
 | 12      | XAI and Bias in Word Embeddings  | Selected contents from [this course](https://github.com/Giovanni1085/UvA_AIforSociety_2022) - slides |
