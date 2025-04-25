@@ -50,7 +50,7 @@ Ongoing projects:
 * Child speech age prediction - https://github.com/zhao-rry/child
 * AUC course recommender - https://github.com/adriannazaranska/text_mining_project
 * Studio Ghibli vs Disney - https://github.com/anasistac/final_project
-* Food recommender - 
+* Food classifier - https://github.com/mfmcl/tm-project
 * Sarcasm detection - https://github.com/TomU05/TM_Project.git
 
 ## Set-up
