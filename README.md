@@ -45,8 +45,13 @@ See the [projects folder](/projects) for info.
 
 ### Project overview
 
-* Projects have not started yet!
+Ongoing projects:
 
+* Child speech age prediction - https://github.com/zhao-rry/child
+* AUC course recommender - https://github.com/adriannazaranska/text_mining_project
+* Studio Ghibli vs Disney - https://github.com/anasistac/final_project
+* Food recommender - 
+* Sarcasm detection - https://github.com/TomU05/TM_Project.git
 
 ## Set-up
 
