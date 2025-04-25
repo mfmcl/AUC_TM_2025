@@ -15,11 +15,11 @@ You can use the [Hello World](notebooks/0_HelloWorld.ipynb) notebooks to check t
 | 4      | Vector space semantics | <a href='slides/AUC_4_vectorSpaceSemantics_2025.pdf'>slides</a> + <a href='notebooks/4_Vector_Semantics.ipynb'>notebook</a> |
 | 5      | Word embeddings | <a href='slides/AUC_5_Word_Embeddings_2025'>slides</a> + <a href='notebooks/5_WordEmbeddings.ipynb'>notebook</a> |
 | 6      | Machine learning fundamentals  | <a href='slides/AUC_6_ML_2025'>slides</a> + notebooks <a href='notebooks/6_1_ML.ipynb'>1 (ML)</a>, <a href='notebooks/6_2_ContextualEmbeddings.ipynb'>2 (BERT)</a> |
-| 7      | Text classification and RNNs | <a href=''>slides</a> + <a href='notebooks/7_1_Classification.ipynb'>notebook (Scikit-learn)</a>, <a href='notebooks/7_2_PyTorch.ipynb'>notebook (PyTorch)</a> |
-| 8      | Recommender systems and NER  | <a href=''>slides</a> + notebooks <a href='notebooks/9_Recommender_Systems.ipynb'>Recommender</a>, <a href='notebooks/8_2_NER_Transformers.ipynb'>NER (Transformers)</a>, <a href='notebooks/8_1_NER_PyTorch.ipynb'>NER (PyTorch)</a> |
-| 9      | Creating annotated corpora, Web scraping and APIs  | <a href=''>slides</a>, <a href='notebooks/10_WebScraping_APIs.ipynb'>notebook</a> |
-| 10      | Sentiment analysis  | <a href=''>slides</a> + <a href='notebooks/11_Sentiment_Analysis.ipynb'>notebook</a> |
-| 11      | Clustering and topic modelling  | <a href=''>slides</a> + <a href='notebooks/12_Clustering_TopicModelling.ipynb'>notebook</a> |
+| 7      | Text classification and RNNs | <a href='slides/AUC_7_classification_RNN_2025'>slides</a> + <a href='notebooks/7_1_Classification.ipynb'>notebook (Scikit-learn)</a>, <a href='notebooks/7_2_PyTorch.ipynb'>notebook (PyTorch)</a> |
+| 8      | Recommender systems and NER  | <a href='slides/AUC_8_Recommender_Systems_2025'>slides</a> + notebooks <a href='notebooks/9_Recommender_Systems.ipynb'>Recommender</a>, <a href='notebooks/8_2_NER_Transformers.ipynb'>NER (Transformers)</a>, <a href='notebooks/8_1_NER_PyTorch.ipynb'>NER (PyTorch)</a> |
+| 9      | Creating annotated corpora, Web scraping and APIs  | <a href='slides/AUC_9_Creating_annotated_corpora_2025'>slides</a>, <a href='notebooks/10_WebScraping_APIs.ipynb'>notebook</a> |
+| 10      | Sentiment analysis  | <a href='slides/AUC_10_Sentiment_Analysis_2025'>slides</a> + <a href='notebooks/11_Sentiment_Analysis.ipynb'>notebook</a> |
+| 11      | Clustering and topic modelling  | <a href='slides/AUC_11_Clustering_TM_2025'>slides</a> + <a href='notebooks/12_Clustering_TopicModelling.ipynb'>notebook</a> |
 | 12      | XAI and Bias in Word Embeddings  | Selected contents from [this course](https://github.com/Giovanni1085/UvA_AIforSociety_2022) - slides |
 | 13      | Fairness and Text Mining for Humanities  | slides |
 
