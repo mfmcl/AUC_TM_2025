@@ -2,6 +2,7 @@
 notebooks/data/ml-1m/*
 assignments/*
 notebooks/stuff/conf.conf
+notebooks/stanford-postagger-full/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
